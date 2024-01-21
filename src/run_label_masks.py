@@ -30,5 +30,5 @@ def etiquetar_mascaras_en_carpeta(path_carpeta):
 
 
 # Uso de la función
-path=r'D:\MRC\11-masks-class3'
+path=r''
 etiquetar_mascaras_en_carpeta(path)
